@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav>
-               <strong><a href="https://www.rimji.com/">リ Rimji じ</a></strong><br>
+               <strong><a href="https://www.rimji.com/">じ Rimji</a></strong><br>
             </nav>
         </header>
 
