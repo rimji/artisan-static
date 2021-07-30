@@ -3,8 +3,8 @@
 @section('title', 'Contact')
 
 @section('content')
-    <h1>Contact</h1>
 
+   <small><center>
    Contact us: customercare@rimji.com
-    </form>
+   </center> </small>
 @endsection
