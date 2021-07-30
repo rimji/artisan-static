@@ -37,7 +37,7 @@
 
         <footer>
             <small><center>
-                &copy; <span data-year></span> {{ $page->owner->name }}   
+                &copy; <span data-year></span> Rimji   
              </center></small>
         </footer>
     </section>
