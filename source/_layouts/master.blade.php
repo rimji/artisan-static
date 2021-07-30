@@ -20,10 +20,10 @@
     <section>
         <header>
             <nav>
-                <strong>{{ $page->site->title }}</strong><br>
+                <strong>Rimji</strong><br>
                 <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="https://www.instagram.com/rimji.india/">Instagram</a></li>
+                    <li><a href="https://www.facebook.com/rimji.india">Facebook</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </nav>
@@ -36,9 +36,9 @@
         </article>
 
         <footer>
-            <small>
+            <small><center>
                 &copy; <span data-year></span> {{ $page->owner->name }}   
-            </small>
+             </center></small>
         </footer>
     </section>
 
