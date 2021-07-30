@@ -21,11 +21,6 @@
         <header>
             <nav>
                 <strong>Rimji</strong><br>
-                <ul>
-                    <li><a href="https://www.instagram.com/rimji.india/">Instagram</a></li>
-                    <li><a href="https://www.facebook.com/rimji.india">Facebook</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                </ul>
             </nav>
         </header>
 
