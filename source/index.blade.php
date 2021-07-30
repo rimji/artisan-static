@@ -3,7 +3,7 @@
 @section('content')
     <h1>Welcome to Rimji</h1>
 
-    <p>Rimji is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>Contact us: customercare@rimji.com</p>
 
     <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
 
