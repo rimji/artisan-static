@@ -32,7 +32,7 @@
 
         <footer>
             <small><center>
-                &copy; <span data-year></span> Rimji   
+                &copy; 2021 Rimji   
              </center></small>
         </footer>
     </section>
