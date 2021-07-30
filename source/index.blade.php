@@ -2,6 +2,6 @@
 
 @section('content')
     <center>
-    <p>Buy our products at Amazon</p>
+    <p>Buy our products on Amazon</p>
     </center>
 @endsection
