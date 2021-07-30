@@ -31,7 +31,7 @@
         </article>
 
         <footer>
-            <small><center>
+            <small><center><p>About  Contact</p> 
                 &copy; 2021 Rimji Retail  
              </center></small>
         </footer>
