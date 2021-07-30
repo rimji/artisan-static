@@ -2,16 +2,15 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://rimji.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Rimji',
+        'description' => 'Welcome to Rimji',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Rimji',
+        'twitter' => 'rimji_india',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
