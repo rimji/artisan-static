@@ -4,6 +4,6 @@
 
 @section('content')
    <small><center>
-   We love and sell scrunchies !
+   We love and sell good products !
    </center> </small>
 @endsection
