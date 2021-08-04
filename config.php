@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://rimji.com',
     'site' => [
         'title' => 'Rimji',
-        'description' => 'Rimji Scrunchies',
+        'description' => 'Rimji Retail',
         'image' => 'default-share.png',
     ],
     'owner' => [
