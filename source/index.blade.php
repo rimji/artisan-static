@@ -2,6 +2,6 @@
 
 @section('content')
     <center>
-    <small><center>Tokyo</a> &nbsp &nbsp Paris &nbsp &nbsp New York</a> &nbsp &nbsp London</a></small>
+    <small><center>London</a> &nbsp &nbsp Paris &nbsp &nbsp New York</a> &nbsp &nbsp Tokyo</a></small>
     </center>
 @endsection
