@@ -32,6 +32,7 @@
 
         <footer>
              <small><center>
+             <a href="https://www.rimji.com/about/">About</a> &nbsp &nbsp <a href="https://www.rimji.com/contact/">Contact</a><br>
              &copy; 2021 Rimji Retail  
              </center></small>
         </footer>
