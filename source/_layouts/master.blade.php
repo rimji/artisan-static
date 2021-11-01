@@ -17,13 +17,11 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-    <section>
-        <header>
-            <nav>
-            <strong><img src="https://user-images.githubusercontent.com/88181976/139623744-b8ae9ed8-3824-4e89-85ea-e2c60a197d3a.png" alt="Rimji" width="200" height="500"></strong><br>
-            </nav>
-        </header>
-    </section>
+       <article>
+            <section>
+                <strong><img src="https://user-images.githubusercontent.com/88181976/139623744-b8ae9ed8-3824-4e89-85ea-e2c60a197d3a.png" alt="Rimji" width="200" height="500"></strong>
+            </section>
+        </article>
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')
