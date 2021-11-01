@@ -21,7 +21,7 @@
         <header>
             <nav>
             <br><br>
-            <strong><img src="https://user-images.githubusercontent.com/88181976/139629868-e2b28673-ba0e-4a19-b81e-c926d0fdcb68.png" alt="Rimji" width="200" height="550"></strong>
+            <strong><img src="https://user-images.githubusercontent.com/88181976/139650269-debb9d87-0f86-410c-95bb-6261194c060e.png" alt="Rimji" width="200" height="550"></strong>
             </nav>
         </header>
     </section>
