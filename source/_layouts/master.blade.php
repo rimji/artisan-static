@@ -17,12 +17,25 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-       <section>
+    <section>
         <header>
             <nav>
-            <strong><img src="https://user-images.githubusercontent.com/88181976/139650269-debb9d87-0f86-410c-95bb-6261194c060e.png" alt="Rimji" width="280" height="570"></strong>
+            <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/129444878-06aa2a2a-b03c-4c54-b544-60cefb073e90.png" alt="rimji" width="150" height="70"></a><br>
             </nav>
         </header>
+
+        <article>
+            <section>
+                @yield('content')
+            </section>
+        </article>
+
+        <footer>
+             <small><center>
+             <a href="https://www.rimji.com/about/">About</a> &nbsp &nbsp <a href="https://www.rimji.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/rimji.official/">Instagram</a><br>
+             &copy; 2021
+             </center></small>
+        </footer>
     </section>
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
