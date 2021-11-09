@@ -2,8 +2,8 @@
 
 @section('content')
     <center>
-    <small> 
-
+    <small>
+     Create Imagine  Play
     </small>
     </center>
 @endsection
