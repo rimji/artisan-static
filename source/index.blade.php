@@ -3,6 +3,7 @@
 @section('content')
     <center>
     <small>
+     Toys
      Create. Imagine. Play.
     </small>
     </center>
