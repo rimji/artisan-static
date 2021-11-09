@@ -3,7 +3,9 @@
 @section('content')
     <center>
     <small>
-    Let's CREATE Let's LEARN Let's PLAY
+    Let's CREATE<br>
+    Let's LEARN<br>
+    Let's PLAY
     </small>
     </center>
 @endsection
