@@ -4,7 +4,7 @@
 
 @section('content')
    <small><center>
-   Educational and learning products<br>
+   Educational and learning products.<br>
    Made with ❤
    </center> </small>
 @endsection
