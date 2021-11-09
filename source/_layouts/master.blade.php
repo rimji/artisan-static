@@ -26,6 +26,8 @@
 
         <article>
             <section>
+            <img src="https://user-images.githubusercontent.com/88181976/140884943-211d82ba-6a5f-43ab-b242-1e8259a32373.jpg" alt="rimji" width="100" height="100"></a><br>
+           
                 @yield('content')
             </section>
         </article>
