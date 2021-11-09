@@ -21,9 +21,6 @@
         <header>
             <nav>
             <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/129444878-06aa2a2a-b03c-4c54-b544-60cefb073e90.png" alt="rimji" width="120" height="60"></a>
-             <small><center>
-             Create Imagine  Play
-             </center></small>
             <br>
             </nav>
         </header>
