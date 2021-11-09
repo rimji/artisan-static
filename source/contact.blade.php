@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   contact@rimji.com
+   contact.india@rimji.com
    </center> </small>
 @endsection
