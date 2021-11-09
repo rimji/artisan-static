@@ -27,6 +27,9 @@
         <article>
             <section>
                 @yield('content')
+             <small><center>
+             Create Imagine  Play ❤ 
+             </center></small>
             </section>
         </article>
 
