@@ -24,7 +24,7 @@
             <small><center>
              Let's Play
             </small></center>
-            <br>
+            
             </nav>
         </header>
 
