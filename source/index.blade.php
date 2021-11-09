@@ -3,7 +3,7 @@
 @section('content')
     <center>
     <small>
-    Create Imagine Play
+    
     </small>
     </center>
 @endsection
