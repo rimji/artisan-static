@@ -4,7 +4,6 @@
 
 @section('content')
    <small><center>
-   Educational and learning products.<br>
-   Made with ❤
+   We love and make good products.
    </center> </small>
 @endsection
