@@ -5,6 +5,6 @@
 @section('content')
 
    <small><center>
-   👋 hello@rimji.com
+   hello@rimji.com
    </center> </small>
 @endsection
