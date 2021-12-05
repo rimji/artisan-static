@@ -4,13 +4,13 @@ return [
     'production' => false,
     'baseUrl' => 'https://rimji.com',
     'site' => [
-        'title' => 'Rimji',
-        'description' => 'Rimji Retail',
+        'title' => 'House of Rimji',
+        'description' => 'Rimji',
         'image' => 'default-share.png',
     ],
     'owner' => [
         'name' => 'Rimji',
-        'twitter' => 'rimji_india',
+        'twitter' => 'houseofrimji',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
