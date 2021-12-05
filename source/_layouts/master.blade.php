@@ -33,7 +33,7 @@
         <footer>
              <small><center>
              <a href="https://www.rimji.com/about/">About</a> &nbsp &nbsp <a href="https://www.rimji.com/contact/">Contact</a> &nbsp &nbsp <a href="https://www.instagram.com/houseofrimji/">Instagram</a>&nbsp &nbsp <a href="https://www.facebook.com/houseofrimji/">Facebook</a><br>
-             &copy; 2021
+             &copy; 2021 House of Rimji 
              </center></small>
         </footer>
     </section>
