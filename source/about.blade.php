@@ -4,7 +4,6 @@
 
 @section('content')
    <small><center>
-   THE HOUSE OF RIMJI<br>
-   We create the most exclusive and high quality products.
+   We love and make good products.
    </center> </small>
 @endsection
