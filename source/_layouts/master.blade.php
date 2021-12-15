@@ -32,7 +32,9 @@
 
         <footer>
              <small><center>
-             <a href="https://www.rimji.com/about/">About</a><br><a href="https://www.rimji.com/contact/">Contact</a><br><a href="https://www.instagram.com/houseofrimji/">Instagram</a><br><a href="https://www.facebook.com/houseofrimji/">Facebook</a><br><br>
+             <a href="https://www.rimji.com/about/">About</a><br><a href="https://www.rimji.com/contact/">Contact</a><br><a href="https://www.instagram.com/houseofrimji/">Instagram</a><br><a href="https://www.facebook.com/houseofrimji/">Facebook</a>
+             <a href="https://www.facebook.com/houseofrimji"><img src="https://user-images.githubusercontent.com/88181976/145967222-eec5fca4-add7-47f2-847f-5d2b582a9999.png" alt="Facebook" width="20" height="20"></a>
+            <br><br>
              &copy; 2021 House of Rimji
              </center></small>
         </footer>
