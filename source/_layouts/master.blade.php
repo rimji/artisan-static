@@ -32,7 +32,6 @@
 
         <footer>
              <small><center>
-             <br><br>
              <a href="https://www.rimji.com/about/">ABOUT</a>&nbsp&nbsp<a href="https://www.rimji.com/contact/">CONTACT</a>
              <br><br>
              &copy; 2021 House of Rimji<br>
