@@ -36,7 +36,9 @@
              &copy; 2021 House of Rimji<br>
              <a href="https://www.facebook.com/houseofrimji"><img src="https://user-images.githubusercontent.com/88181976/146122205-1ad12db6-cca7-41b8-a420-99d7f69d762e.png" alt="Facebook" width="27" height="27"></a>
              <a href="https://www.instagram.com/houseofrimji"><img src="https://user-images.githubusercontent.com/88181976/146123677-ffcd5aa5-c7d4-4555-96b7-9f23006b0697.png" alt="Instagram" width="23" height="23"></a>
-             </center></small>
+             <br><br>
+             <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/146128471-344f506c-b12e-4858-af4a-efda4013daff.png" alt="rimji" width="40" height="30"></a>
+        </center></small>
         </footer>
     </section>
 
