@@ -4,6 +4,9 @@
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
+body {
+  color: red;
+}
 section h1:first-child {
     margin-top: 18px;
 }
