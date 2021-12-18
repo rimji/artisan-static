@@ -36,7 +36,7 @@
              &nbsp
              <a href="https://www.instagram.com/houseofrimji"><img src="https://user-images.githubusercontent.com/88181976/146123677-ffcd5aa5-c7d4-4555-96b7-9f23006b0697.png" alt="Instagram" width="23" height="23"></a>
              <br>
-             <a href="https://www.rimji.com/about/">About</a>&nbsp&nbsp&nbsp&nbsp<a href="https://www.rimji.com/contact/">Contact</a>
+             <a href="https://www.rimji.com/contact/">Contact Us</a>
              <br>
              &copy; 2021 House of Rimji
         </center></small>
