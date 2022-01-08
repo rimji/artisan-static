@@ -19,10 +19,8 @@
 <body>
     <section>
         <header>
-            <nav>
-            <small>
+            <nav> 
             <a href="https://www.rimji.com/">Rimji</a>
-            </small>
             </nav>
         </header>
 
