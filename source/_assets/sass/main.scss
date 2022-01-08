@@ -1,12 +1,14 @@
 // Tacit - CSS Framework for Dummies, Without Classes
 @import url('https://unpkg.com/tacit-css@1.5.5/dist/tacit-css-1.5.5.min.css');
-
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
 a {
   color: black;
 }
+
+font-family: 'Special Elite', cursive;
 
 section h1:first-child {
     margin-top: 18px;
@@ -20,3 +22,4 @@ button[data-sharer] {
     padding: 5px;
     border: 2px solid blue;
 }
+
