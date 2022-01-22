@@ -4,7 +4,7 @@
 
 @section('content')
    <small><center>
-   Rimji Beauty<br>
+   Rimji Beauty Products<br>
    Handmade with Love<br>
    facebook instagram @rimjibeauty
    </center> </small>
