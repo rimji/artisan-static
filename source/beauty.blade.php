@@ -5,6 +5,6 @@
 @section('content')
    <small><center>
    @rimjibeauty<br>
-   Handmade with ❤️ 
+   Handmade with Love
    </center> </small>
 @endsection
