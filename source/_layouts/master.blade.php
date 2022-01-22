@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/">contact us</a>
              <br>
-             &copy; Rimji
+             &copy; Rimji Beauty
         </center></small>
         </footer>
     </section>
