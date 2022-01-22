@@ -5,6 +5,6 @@
 @section('content')
    <small><center>
    Rimji Beauty Products<br>
-   Natural. Fresh. Handmade<br>
+   Natural. Fresh. Handmade.<br>
    </center> </small>
 @endsection
