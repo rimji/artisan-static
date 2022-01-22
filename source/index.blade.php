@@ -3,7 +3,7 @@
 @section('content')
     <center>
     <small>
-    <a href="https://www.rimji.com/">@rimjibeauty</a>
+    <a href="https://www.rimji.com/beauty/">@rimjibeauty</a>
     </small>
     </center>
 @endsection
