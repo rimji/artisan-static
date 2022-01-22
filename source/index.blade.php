@@ -3,7 +3,7 @@
 @section('content')
     <center>
     <small>
-
+    @rimjibeauty
     </small>
     </center>
 @endsection
