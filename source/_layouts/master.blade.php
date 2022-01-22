@@ -32,13 +32,13 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/houseofrimji">facebook</a>
+             <a href="https://www.facebook.com/rimjibeauty">facebook</a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/houseofrimji">instagram</a>
+             <a href="https://www.instagram.com/rimjibeauty">instagram</a>
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/">contact us</a>
              <br>
-             &copy; House of Rimji
+             &copy; Rimji Beauty
         </center></small>
         </footer>
     </section>
