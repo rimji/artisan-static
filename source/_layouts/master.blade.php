@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/">contact us</a>
              <br>
-             &copy;House of Rimji
+             &copy; House of Rimji
         </center></small>
         </footer>
     </section>
