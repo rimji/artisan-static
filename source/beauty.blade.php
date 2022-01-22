@@ -5,7 +5,6 @@
 @section('content')
    <small><center>
    Rimji Beauty Products<br>
-   Handmade with Love<br>
-   We are on facebook, instagram @rimjibeauty
+   Natural. Fresh. Handmade<br>
    </center> </small>
 @endsection
