@@ -4,7 +4,7 @@
 
 @section('content')
    <small><center>
-   @rimjibeauty<br>
+   Rimji Beauty<br>
    Handmade with Love<br>
    </center> </small>
 @endsection
