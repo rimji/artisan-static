@@ -1,9 +1,8 @@
 @extends('_layouts.master')
 
 @section('content')
-    <center>
-    <small>
-    <a href="https://www.rimji.com/beauty/">@<u>rimjibeauty</u></a>
-    </small>
-    </center>
+    <small><center>
+    <a href="https://www.rimji.com/faceoil/"><u>Face Oil</u></a>. <a href="https://www.rimji.com/bodyoil/"><u>Body Oil</u></a>. <a href="https://www.rimji.com/hairoil/"><u>Hair Oil</u></a><br><br>
+    All Natural.<br>Fragrance Free.<br>Preservative Free.
+    </center> </small>
 @endsection
