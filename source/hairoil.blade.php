@@ -4,7 +4,7 @@
 
 @section('content')
    <small><center>
-   Rimji Hair Oil<br>
+   Rimji Hair Oil<br><br>
    All Natural.<br>Fragrance Free.<br>Preservative Free.
    </center> </small>
 @endsection
