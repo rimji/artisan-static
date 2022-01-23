@@ -5,7 +5,6 @@
 @section('content')
    <small><center>
    Rimji Face Oil<br>
-   Natural. Fresh. Handmade<br>
-   Fragrance Free. Presevative Free
+   All Natural. Fragrance Free. Preservative Free
    </center> </small>
 @endsection
