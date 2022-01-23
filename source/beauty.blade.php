@@ -5,7 +5,7 @@
 @section('content')
    <small><center>
    Rimji Beauty Products<br>
-   <u>Face Oil</u>. <u>Body Oil</u>. <u>Hair Oil</u><br>
+   <a href="https://www.rimji.com/faceoil/">Face Oil</a>. <a href="https://www.rimji.com/bodyoil/">Body Oil</a>. <a href="https://www.rimji.com/hairoil/">Hair Oil</a><br>
    All Natural.<br>Fragrance Free.<br>Preservative Free.
    </center> </small>
 @endsection
