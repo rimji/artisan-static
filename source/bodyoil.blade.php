@@ -5,6 +5,6 @@
 @section('content')
    <small><center>
    Rimji Body Oil<br>
-   All Natural. Fragrance Free. Preservative Free
+   All Natural.<br>Fragrance Free.<br>Preservative Free.
    </center> </small>
 @endsection
