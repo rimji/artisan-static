@@ -33,11 +33,11 @@
         <footer>
          <small><center>
              @rimjibeauty<br>
-             <a href="https://www.facebook.com/rimjibeauty">facebook</a>
+             <a href="https://www.facebook.com/rimjibeauty"><u>facebook</u></a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/rimjibeauty">instagram</a>
+             <a href="https://www.instagram.com/rimjibeauty"><u>instagram</u></a>
              &nbsp&nbsp
-             <a href="https://www.rimji.com/contact/">contact us</a>
+             <a href="https://www.rimji.com/contact/"><u>contact us</u></a>
              <br>
              &copy; Rimji
         </center></small>
