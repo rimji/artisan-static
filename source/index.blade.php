@@ -8,6 +8,6 @@
     <a href="https://www.rimji.com/faceoil/"><u>Hands</u></a>.<br><br>
    
     All Natural.<br>Fragrance Free.<br>Preservative Free.<br><br>
-    <a href="https://www.instagram.com/rimjibeauty/">@rimjibeauty</a>
+    <a href="https://www.instagram.com/rimjibeauty/">@<u>rimjibeauty</u></a>
     </center> </small>
 @endsection
