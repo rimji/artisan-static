@@ -32,7 +32,7 @@
 
         <footer>
          <small><center>
-             @rimjibeauty
+             @rimjibeauty<br>
              <a href="https://www.facebook.com/rimjibeauty">facebook</a>
              &nbsp&nbsp
              <a href="https://www.instagram.com/rimjibeauty">instagram</a>
