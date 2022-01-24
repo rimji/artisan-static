@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.rimji.com/">Rimji Beauty</a>
+            <a href="https://www.rimji.com/">Rimji</a>
             </nav>
         </header>
 
@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/">contact us</a>
              <br>
-             &copy; Rimji Beauty
+             &copy; Rimji
         </center></small>
         </footer>
     </section>
