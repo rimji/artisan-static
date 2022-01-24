@@ -8,6 +8,6 @@
     <a href="https://www.rimji.com/handoil/"><u>Hands</u></a>.<br><br>
    
     All Natural.<br>Fragrance Free.<br>Preservative Free.<br><br>
-    <a href="https://www.instagram.com/rimjibeauty/">@<u>rimjibeauty</u></a>
+    @rimjibeauty
     </center> </small>
 @endsection
