@@ -2,9 +2,10 @@
 
 @section('content')
     <small><center>
-    <a href="https://www.rimji.com/faceoil/"><u>Face Oil</u></a>&nbsp&nbsp<a href="https://www.rimji.com/bodyoil/"><u>Body Oil</u></a>&nbsp&nbsp<a href="https://www.rimji.com/hairoil/"><u>Hair Oil</u></a><br>
-    <a href="https://www.rimji.com/faceoil/"><u>Lip Oil</u></a>&nbsp&nbsp<a href="https://www.rimji.com/bodyoil/"><u>Feet Oil</u></a>&nbsp&nbsp<a href="https://www.rimji.com/hairoil/"><u>Nail Oil</u></a><br>
-    <a href="https://www.rimji.com/faceoil/"><u>Hand Oil</u></a><br><br>
+    Oils for 
+    <a href="https://www.rimji.com/faceoil/"><u>Face</u></a>,&nbsp&nbsp<a href="https://www.rimji.com/bodyoil/"><u>Body</u></a>,&nbsp&nbsp<a href="https://www.rimji.com/hairoil/"><u>Hair</u></a>,
+    <a href="https://www.rimji.com/faceoil/"><u>Lips</u></a>,&nbsp&nbsp<a href="https://www.rimji.com/bodyoil/"><u>Feet</u></a>,&nbsp&nbsp<a href="https://www.rimji.com/hairoil/"><u>Nails</u></a> and
+    <a href="https://www.rimji.com/faceoil/"><u>Hands</u></a><br><br>.
    
     All Natural.<br>Fragrance Free.<br>Preservative Free.<br><br>
     <a href="https://www.instagram.com/rimjibeauty/">@rimjibeauty</a>
