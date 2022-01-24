@@ -9,7 +9,7 @@
     
 <p align="justify">
     Note: Our oils are preservative free. Store them away from moisture or any kind of water contamination. Secure the cap tightly after each use. Use these oils within 6 months from opening. 
-</p><br><br>
+</p><br>
 @rimjibeauty
 </center> </small>
 @endsection
