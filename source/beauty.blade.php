@@ -8,7 +8,7 @@
     All Natural.<br>Fragrance Free.<br>Preservative Free.<br><br>
     @rimjibeauty<br><br>
 <p align="justify">
-    Note: Store these oils away from moisture or any kind of water contamination. Secure the cap tightly after each use. Use these oils within 6 months from opening. 
+    Note: Our oils are preservative free. Store them away from moisture or any kind of water contamination. Secure the cap tightly after each use. Use these oils within 6 months from opening. 
 </p>
 </center> </small>
 @endsection
