@@ -7,7 +7,6 @@
     <a href="https://www.rimji.com/lipoil/"><u>Lips</u></a>,&nbsp&nbsp<a href="https://www.rimji.com/footoil/"><u>Feet</u></a>,&nbsp&nbsp<a href="https://www.rimji.com/nailoil/"><u>Nails</u></a> and
     <a href="https://www.rimji.com/handoil/"><u>Hands</u></a>.<br><br>
    
-    All Natural.<br>Fragrance Free.<br>Preservative Free.<br><br>
-    @rimjibeauty
+    All Natural.<br>Fragrance Free.<br>Preservative Free.
     </center> </small>
 @endsection
