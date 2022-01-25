@@ -4,8 +4,8 @@
 
 @section('content')
    <small><center>
-   All Natural.<br><br>
    Body Oil<br><br>  
+    All Natural.<br>
    <p align="justify">
     Free from Fragrance, Colourants and Preservatives. Not tested on animals. 100% Vegetarian.
    </p>
