@@ -6,7 +6,7 @@
    <small><center>
    Body Oil<br><br>
    <p align="justify">
-    All Natural. Free from Fragrance, Colourants and Preservatives. Not tested on animals. 100% Vegetarian.
+    Natural, Fresh and Handmade. Free from Fragrance, Colourants and Preservatives. Not tested on animals. 100% Vegetarian.
    </p>
    <a href="https://www.rimji.com/bocare/"><u>Care Instructions</u></a>
    </center> </small>
