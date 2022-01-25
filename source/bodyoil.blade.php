@@ -6,6 +6,6 @@
    <small><center>
    Body Oil<br><br>
    All Natural.<br>Fragrance Free.<br>Preservative Free.<br><br>
-   <a href="https://www.rimji.com/beautycarebo/"><u>Care Instructions</u>
+   <a href="https://www.rimji.com/bocare/"><u>Care Instructions</u>
    </center> </small>
 @endsection
