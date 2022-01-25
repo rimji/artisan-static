@@ -8,7 +8,7 @@
    <p align="justify">
     Natural, Fresh and Handmade. Free from Fragrance, Colourants and Preservatives. Not tested on animals. 100% Vegetarian.
    </p>
-   <a href="https://www.rimji.com/hocare/"><u>Care Instructions</u><br><br>
+   <a href="https://www.rimji.com/hocare/"><u>Care Instructions</u></a><br><br>
    Try <a href="https://www.rimji.com/bodyoil/"><u>Rimji Body Oil</u></a> also !
    </center> </small>
 @endsection
