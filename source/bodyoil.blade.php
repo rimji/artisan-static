@@ -9,6 +9,6 @@
     Natural, Fresh and Handmade. Free from Fragrance, Colourants and Preservatives. Not tested on animals. 100% Vegetarian.
    </p>
    <a href="https://www.rimji.com/bocare/"><u>Care Instructions</u></a><br><br>
-   Try <a href="https://www.rimji.com/hairoil/"><u>Rimji Hair Oil</u></a> also ! 
+   Liked Body Oil? Try <a href="https://www.rimji.com/hairoil/"><u>Hair Oil</u></a> also.
    </center> </small>
 @endsection
