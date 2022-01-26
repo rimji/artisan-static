@@ -6,6 +6,7 @@
    <small><center>
    Hair Oil<br><br>
    <p align="justify">
+    Use this nourishing hair oil for healthier hair and scalp.<br><br>
     Natural, Fresh and Handmade. Free from Fragrance, Colourants and Preservatives. Not tested on animals. 100% Vegetarian.<br><br>
     Usage: 1. Gently massage the oil into the scalp. 2. Coat the lengths of your hair with the oil, concentrating on the ends. 3. Leave it on for at least an hour, or overnight for better results.
    </p>
