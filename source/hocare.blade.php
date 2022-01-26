@@ -4,7 +4,7 @@
 
 @section('content')
    <small><center>
-    Hair Oil Care Instructions<br><br>
+    <a href="https://www.rimji.com/hairoil/"><u>Hair Oil</u></a> Care Instructions<br><br>
   <p align="justify">
     This oil is recommended for all hair types.<br><br> 
     Note: This oil is preservative free. Store it away from moisture or any kind of water contamination. Secure the cap tightly after each use. Use this oil within 6 months from opening.<br><br>
