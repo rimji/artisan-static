@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.rimji.com/">R I M J I</a>
+            <a href="https://www.rimji.com/">R I M J I  B E A U T Y</a>
             </nav>
         </header>
 
