@@ -32,7 +32,6 @@
 
         <footer>
          <small><center>
-             @rimjibeauty<br>
              <a href="https://www.facebook.com/rimjibeauty"><u>facebook</u></a>
              &nbsp&nbsp
              <a href="https://www.instagram.com/rimjibeauty"><u>instagram</u></a>
