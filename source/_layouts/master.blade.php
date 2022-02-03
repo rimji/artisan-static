@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/152364504-ebd45466-d573-4bbc-addf-42e2abd7a663.png" alt="RIMJI AYURVEDA" width="70" height="40"></a>
+            <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/152364504-ebd45466-d573-4bbc-addf-42e2abd7a663.png" alt="RIMJI AYURVEDA" width="80" height="40"></a>
             </nav>
         </header>
 
