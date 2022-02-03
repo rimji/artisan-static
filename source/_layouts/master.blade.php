@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/"><u>contact us</u></a>
              <br>
-             &copy; RIMJI
+             &copy; Rimji Ayurveda
         </center></small>
         </footer>
     </section>
