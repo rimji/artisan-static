@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/"><u>Contact us</u></a>
              <br>
-             &copy; RIMJI & CO.
+             &copy; RIMJI & Co.
         </center></small>
         </footer>
     </section>
