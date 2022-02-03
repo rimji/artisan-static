@@ -34,7 +34,7 @@
          <small><center>
              <a href="https://www.facebook.com/rimjibeauty"><u>facebook</u></a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/rimjibeauty"><u>instagram</u></a>
+             <a href="https://www.instagram.com/rimjiayurveda"><u>instagram</u></a>
              &nbsp&nbsp
              <a href="https://www.rimji.com/contact/"><u>contact us</u></a>
              <br>
