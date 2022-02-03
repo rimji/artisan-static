@@ -32,7 +32,7 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/rimjibeauty"><u>facebook</u></a>
+             <a href="https://www.facebook.com/rimjiayurveda"><u>facebook</u></a>
              &nbsp&nbsp
              <a href="https://www.instagram.com/rimjiayurveda"><u>instagram</u></a>
              &nbsp&nbsp
