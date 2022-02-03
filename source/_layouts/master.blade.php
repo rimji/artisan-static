@@ -32,11 +32,11 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/rimjiayurveda"><u>facebook</u></a>
+             <a href="https://www.facebook.com/rimjiayurveda"><u>Facebook</u></a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/rimjiayurveda"><u>instagram</u></a>
+             <a href="https://www.instagram.com/rimjiayurveda"><u>Instagram</u></a>
              &nbsp&nbsp
-             <a href="https://www.rimji.com/contact/"><u>contact us</u></a>
+             <a href="https://www.rimji.com/contact/"><u>Contact us</u></a>
              <br>
              &copy; RIMJI AYURVEDA CO.
         </center></small>
