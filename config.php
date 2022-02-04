@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://rimji.com',
     'site' => [
-        'title' => 'Rimji Ayurveda',
-        'description' => 'Rimji Ayurveda Co.',
+        'title' => 'Rimji Co.',
+        'description' => 'Rimji Co.',
         'image' => 'default-share.png',
     ],
     'owner' => [
