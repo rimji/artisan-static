@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-            <a href="https://www.rimji.com"><b>Rimji<sup>&reg;</sup> Body Oil</b></a>
+            <a href="https://www.rimji.com"><b>Rimji<sup>&reg;</sup></b></a>
             </nav>
         </header>
 
