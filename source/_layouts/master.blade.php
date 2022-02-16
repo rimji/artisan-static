@@ -32,11 +32,11 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/rimjico"><u>Facebook</u></a>
+             <a href="https://www.facebook.com/rimjico">Facebook</a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/rimjico"><u>Instagram</u></a>
+             <a href="https://www.instagram.com/rimjico">Instagram</a>
              &nbsp&nbsp
-             <a href="https://www.rimji.com/contact/"><u>Contact us</u></a>
+             <a href="https://www.rimji.com/contact/">Contact us</a>
              <br>
              &copy; RIMJI Co.
         </center></small>
