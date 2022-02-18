@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-             <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/154681653-7d49815c-7fb4-40df-996f-9ae4b05bb804.png" alt="Rimji Co." width="80" height="25"></a>
+             <a href="https://www.rimji.com/"><img src="https://user-images.githubusercontent.com/88181976/153802554-60210aec-e51c-4695-b575-31800fd470db.png" alt="Rimji Co." width="60" height="25"></a>
             </nav>
         </header>
 
