@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-  <small><center>
+  <center>
     <a href="https://www.rimji.com/bodyoil/"><u>Body Oil</u></a>
- </center> </small>
+  </center>
 @endsection
