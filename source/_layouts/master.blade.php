@@ -31,7 +31,7 @@
         </article>
 
         <footer>
-         <small><center>
+         <center>
              <a href="https://www.facebook.com/rimjico">Facebook</a>
              &nbsp&nbsp
              <a href="https://www.instagram.com/rimjico">Instagram</a>
@@ -39,7 +39,7 @@
              <a href="https://www.rimji.com/contact/">Contact us</a>
              <br>
              &copy; RIMJI Co.
-        </center></small>
+        </center>
         </footer>
     </section>
 
