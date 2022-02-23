@@ -2,6 +2,5 @@
 
 @section('content')
   <center>
-    <a href="https://www.rimji.com/bodyoil/">BODY OIL</a>
-  </center>
+      </center>
 @endsection
