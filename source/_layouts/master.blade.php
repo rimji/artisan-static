@@ -33,9 +33,9 @@
         <footer>
          <center>
              <a href="https://www.facebook.com/rimjico">Facebook</a>
-             &nbsp&nbsp
+             &nbsp
              <a href="https://www.instagram.com/rimjico">Instagram</a>
-             &nbsp&nbsp
+             &nbsp
              <a href="https://www.rimji.com/contact/">Contact us</a>
              <br>
              &copy; RIMJI Co.
