@@ -4,7 +4,7 @@
 
 @section('content')
    <center>
-    Body Oil<br><br><small>
+    BODY OIL<br><br><small>
    <p align="justify">
     RIMJI<sup>&reg;</sup> Body Oil Moisturizer for soft, smooth skin.<br><br>
     Handmade using natural and fresh ingredients. Fragrance, colourant and preservative free. Not tested on animals and 100% vegetarian.<br><br>
