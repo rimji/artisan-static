@@ -2,5 +2,6 @@
 
 @section('content')
   <center>
+    @rimjico
       </center>
 @endsection
