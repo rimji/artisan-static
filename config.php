@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://rimji.com',
     'site' => [
-        'title' => 'RIMJI Co.',
-        'description' => 'Rimji Co.',
+        'title' => 'RIMJI',
+        'description' => 'Rimji Co. Good Products',
         'image' => 'default-share.png',
     ],
     'owner' => [
