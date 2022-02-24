@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-  <center>
+  <center><small> 
     @rimjico
-      </center>
+      </small></center>
 @endsection
