@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://rimji.com',
     'site' => [
-        'title' => 'RIMJI Hair Accessories',
-        'description' => 'Shop for latest trends in Hair Accessories',
+        'title' => 'RIMJI',
+        'description' => 'Shop for Good Products',
         'image' => 'default-share.png',
     ],
     'owner' => [
